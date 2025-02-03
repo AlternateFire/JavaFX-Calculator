@@ -1,2 +1,2 @@
 # JavaFX-Calculator
-Calculator Interest app made in JavaFx. Part of a school project (2022). 
+Interest calculator app made in JavaFx. Has an interactive GUI and allows users to navigate and input their values in an user-friendly manner. Part of a school project (2022). 
